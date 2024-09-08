@@ -12,8 +12,14 @@ Experiment: Try different models and settings to improve the results.
 Model Results
 Here’s how accurate each model is:
 
+RESULT
+
 Logistic Regression: 69.0%
+
 Support Vector Machine (SVM): 93.5%
+
 K-Nearest Neighbors (KNN): 89.7%
+
 Random Forest: 98%
+
 Overall model accuracy: 80.62%
